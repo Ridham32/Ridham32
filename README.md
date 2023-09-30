@@ -1,5 +1,5 @@
 <img src="https://1.bp.blogspot.com/-aKXUmGe_Cdk/YACmKq9d1ZI/AAAAAAAAP_o/KkKe1xVCL0weBvDApumCnFBx63VXBEoJgCLcBGAsYHQ/s0/more-productivity-with-Kotlin-header.png" />
-Hi 👋, I'm Ridham Sharma
+##  Hi 👋, I'm Ridham Sharma
 
 <h3 align="center">Passionate about Android development in Kotlin, Java and proficient in C.🔧 Arduino enthusiast crafting cool projects! 🤖💡. 📱🚀 Let's connect and build amazing things! 💡🌟</h3>
 
