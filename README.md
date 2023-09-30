@@ -2,7 +2,7 @@
 <h4 align = "center">  Hi 👋, I'm Ridham Sharma </h4>
 
 <h3 align="center">Passionate about Android development in Kotlin, Java and proficient in C.🔧 Arduino enthusiast crafting cool projects! 🤖💡. 📱🚀 Let's connect and build amazing things! 💡🌟</h3>
-<img src = "https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47hatbfudp0vwzzfh7dbsj9zajbpltr7q4n0fvs7bf&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+<iframe src="https://giphy.com/embed/hpXdHPfFI5wTABdDx9" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-computer-laptop-hello-world-hpXdHPfFI5wTABdDx9">via GIPHY</a></p>
 
 *   🧠  I'm learning kotlin and firebase.
 *   🤝  I'm open to collaborating on Projects### Skills 
