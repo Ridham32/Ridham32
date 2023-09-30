@@ -4,15 +4,19 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
 </p>
 
-<h3 align="center">Passionate about Android development in Kotlin, Java and proficient in C.🔧 Arduino enthusiast crafting cool projects! 🤖💡. 📱🚀 Let's connect and build amazing things! 💡🌟</h3>
 <br>
 <img src = "https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47xfmql9935hmf8cgjp58gkc8nm2npqgbwp2jlcu9e&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 
-
+ ## About me &#128513;
+ <p>
+  <b>
+   Passionate about Android development in Kotlin, Java and proficient in C.🔧 Arduino enthusiast crafting cool projects! 🤖💡. 📱🚀 Let's connect and build amazing things! 💡🌟
+  </b>
+ </p>
+ *   🧠  I'm learning kotlin and firebase.
+*   🤝  I'm open to collaborating on Projects### Skills
 <br>
 
-*   🧠  I'm learning kotlin and firebase.
-*   🤝  I'm open to collaborating on Projects### Skills
 
 <b>My Skills set</b>
 <br>
