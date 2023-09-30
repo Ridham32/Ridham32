@@ -1,6 +1,9 @@
 <img src="https://1.bp.blogspot.com/-aKXUmGe_Cdk/YACmKq9d1ZI/AAAAAAAAP_o/KkKe1xVCL0weBvDApumCnFBx63VXBEoJgCLcBGAsYHQ/s0/more-productivity-with-Kotlin-header.png" />
 <h2 align = "center">  Hi 👋, I'm Ridham Sharma </h2>
-<br>
+<p align="left">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
+</p>
+
 <h3 align="center">Passionate about Android development in Kotlin, Java and proficient in C.🔧 Arduino enthusiast crafting cool projects! 🤖💡. 📱🚀 Let's connect and build amazing things! 💡🌟</h3>
 <br>
 <img src = "https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47xfmql9935hmf8cgjp58gkc8nm2npqgbwp2jlcu9e&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
