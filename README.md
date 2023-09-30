@@ -1,4 +1,4 @@
-<img src=![image](https://github.com/Ridham32/Ridham32/assets/93150392/56bd6215-acb7-4c2c-8f08-1de5eb82eee3)/>
+<img src=https://static.tildacdn.com/tild3435-3863-4130-b539-663061653033/how-to-become-androi.png/>
 <h1 align="center">Hi 👋, I'm Ridham Sharma</h1>
 
 <h3 align="center">Passionate about Android development in Kotlin, Java and proficient in C.🔧 Arduino enthusiast crafting cool projects! 🤖💡. 📱🚀 Let's connect and build amazing things! 💡🌟</h3>
