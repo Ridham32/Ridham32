@@ -13,8 +13,11 @@
    Passionate about Android development in Kotlin, Java and proficient in C.🔧 Arduino enthusiast crafting cool projects! 🤖💡. 📱🚀 Let's connect and build amazing things! 💡🌟
   </b>
  </p>
+ 
  *   🧠  I'm learning kotlin and firebase.
-*   🤝  I'm open to collaborating on Projects### Skills
+ *   🤝  I'm open to collaborating on Projects### Skills
+
+
 <br>
 
 
