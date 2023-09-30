@@ -1,7 +1,8 @@
 <img src="https://1.bp.blogspot.com/-aKXUmGe_Cdk/YACmKq9d1ZI/AAAAAAAAP_o/KkKe1xVCL0weBvDApumCnFBx63VXBEoJgCLcBGAsYHQ/s0/more-productivity-with-Kotlin-header.png" />
-<h3 align = "center">  Hi 👋, I'm Ridham Sharma </h3>
+<h4 align = "center">  Hi 👋, I'm Ridham Sharma </h4>
 
 <h3 align="center">Passionate about Android development in Kotlin, Java and proficient in C.🔧 Arduino enthusiast crafting cool projects! 🤖💡. 📱🚀 Let's connect and build amazing things! 💡🌟</h3>
+<img src = "https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47hatbfudp0vwzzfh7dbsj9zajbpltr7q4n0fvs7bf&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 
 *   🧠  I'm learning kotlin and firebase.
 *   🤝  I'm open to collaborating on Projects### Skills 
