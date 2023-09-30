@@ -5,8 +5,9 @@
 </p>
 
 <br>
+<div style="text-align: center;">
 <img src = "https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47xfmql9935hmf8cgjp58gkc8nm2npqgbwp2jlcu9e&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
-
+ </div>
  ## About me 😊
  <p>
   <b>
