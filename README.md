@@ -3,8 +3,6 @@
 
 <h3 align="center">Passionate about Android development in Kotlin, Java and proficient in C.🔧 Arduino enthusiast crafting cool projects! 🤖💡. 📱🚀 Let's connect and build amazing things! 💡🌟</h3>
 
-*   🌍  I'm based in India
-*   ✉️  You can contact me at [imsharmaridham473@gmail.com](mailto:imsharmaridham473@gmail.com)
 *   🧠  I'm learning kotlin and firebase.
 *   🤝  I'm open to collaborating on Projects### Skills 
 <p align="left">
