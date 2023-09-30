@@ -1,10 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ridham Sharma
-=====================================================================================================================================
+<img src="https://1.bp.blogspot.com/-b1_n6tOHvWU/YKMssWEjo-I/AAAAAAAAQjk/vIJQsAPUpRQKxR44GoCbm3CtRgr8tVBKACLcBGAsYHQ/s0/Android_NewForDevelopers_1024x512_updated.png"/>
+<h1 align="center">Hi 👋, I'm Ridham Sharma</h1>
 
-Android App Developer
----------------------
-
-Passionate about Android development in Kotlin, Java and proficient in C.🔧 Arduino enthusiast crafting cool projects! 🤖💡. 📱🚀 Let's connect and build amazing things! 💡🌟
+<h3 align="center">Passionate about Android development in Kotlin, Java and proficient in C.🔧 Arduino enthusiast crafting cool projects! 🤖💡. 📱🚀 Let's connect and build amazing things! 💡🌟</h3>
 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [imsharmaridham473@gmail.com](mailto:imsharmaridham473@gmail.com)
