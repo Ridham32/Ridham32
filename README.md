@@ -13,7 +13,7 @@
 
 **Passionate about Android development in Kotlin, Java, and proficient in C.**
 
-- 🧠 I'm learning Kotlin and Firebase.
+- 🧠 Android App developer.
 - 🤝 I'm open to collaborating on projects.
 - ⚒ Arduino enthusiast crafting cool projects!
 - 📚 Currently exploring Python, Data Science, AI, and Machine Learning.
