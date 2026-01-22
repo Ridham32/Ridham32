@@ -6,8 +6,11 @@
 <br>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47xfmql9935hmf8cgjp58gkc8nm2npqgbwp2jlcu9e&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" />
+  <img src="AI GIF.gif" width="340"/>
 </p>
+
+<h3 align="center">🌱 Learn • Code • Grow • Repeat</h3>
+
 
 ## About Me 😊
 
@@ -18,8 +21,10 @@
 ## Skills👩‍💻 and Tools🛠️
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c,Arduino,python,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=c,python,tensorflow,git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="48" height="48"/>
 </p>
+
 
 ## Connect With Me 👩‍💻
 
