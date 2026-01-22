@@ -9,13 +9,6 @@
 
 <h3 align="center">🌱 Learn • Code • Grow • Repeat</h3>
 
-
-
-
-<h3 align="center">🌱 Learn • Code • Grow • Repeat</h3>
-
-
-
 ## About Me 😊
 
 🤖 Hands-on experience with Arduino-based projects  
