@@ -11,15 +11,15 @@
 
 ## About Me 😊
 
-**Passionate about Android development in Kotlin, Java, and proficient in C.**
-
-- 🧠 Android App developer.
-- 🤝 I'm open to collaborating on projects.
-- ⚒ Arduino enthusiast crafting cool projects!
-- 📚 Currently exploring Python, Data Science, AI, and Machine Learning.
+🤖 Hands-on experience with Arduino-based projects  
+📊 Exploring Data Science, AI & Machine Learning  
+🤝 Open to collaboration on beginner-friendly projects
 
 ## My Skill Set 🎯
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,arduino,c,git,github,linux,vscode" />
+</p>
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
