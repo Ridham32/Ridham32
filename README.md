@@ -6,10 +6,11 @@
 <br>
 
 <p align="center">
-  <img src="coding-girl.gif" width="340"/>
+  <img src="https://raw.githubusercontent.com/Ridham32/Ridham32/main/coding-girl.gif" width="340" />
 </p>
 
 <h3 align="center">🌱 Learn • Code • Grow • Repeat</h3>
+
 
 
 ## About Me 😊
