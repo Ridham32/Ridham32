@@ -18,7 +18,7 @@
 ## Skills👩‍💻 and Tools🛠️
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c,python,tensorflow,pandas,numpy" />
+<img src="https://skillicons.dev/icons?i=c,Arduino,python,tensorflow" />
 </p>
 
 ## Connect With Me 👩‍💻
