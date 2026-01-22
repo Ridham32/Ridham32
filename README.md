@@ -2,8 +2,13 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
 </p>
-
 <br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ridham32/Ridham32/main/abc.gif" width="340" />
+</p>
+
+<h3 align="center">🌱 Learn • Code • Grow • Repeat</h3>
+
 
 
 
