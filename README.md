@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-  <img src="AI gif(1).gif" width="340"/>
+  <img src="AI gif (1).gif" width="340"/>
 </p>
 
 <h3 align="center">🌱 Learn • Code • Grow • Repeat</h3>
