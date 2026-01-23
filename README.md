@@ -1,6 +1,6 @@
 <p align="center">
 <pre>
-while True: try_fail_learn_adapt_solve()
+while True: try_fail_learn_adapt_solve() #My definition of growth.
 </pre>
 </p>
 
