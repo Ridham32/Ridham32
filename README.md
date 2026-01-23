@@ -7,7 +7,7 @@
   <img src="https://raw.githubusercontent.com/Ridham32/Ridham32/main/abc.gif" width="340" />
 </p>
 
-<h3 align="center">🌱 Learn • Code • Grow • Repeat</h3>
+<h3 align="center">🌱Try → fail → adapt → solve</h3>
 
 ## About Me 😊
 
