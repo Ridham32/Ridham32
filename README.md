@@ -1,5 +1,9 @@
-while not solved:
-    try_fail_learn_adapt_solve()
+<p align="center">
+<pre>
+while True: try_fail_learn_adapt_solve()
+</pre>
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I+am+Ridham+Sharma;Welcome+to+my+GitHub+profile!&center=true&width=480&height=45">
 </p>
