@@ -7,7 +7,10 @@
   <img src="https://raw.githubusercontent.com/Ridham32/Ridham32/main/abc.gif" width="340" />
 </p>
 
-<h3 align="center">🌱Try → Fail → Adapt → Solve</h3>
+<h3 align="center">🌱 Try → Fail → Adapt → Solve</h3>
+<p align="center">
+  <i>A mindset for learning, problem-solving, and growth</i>
+</p>
 
 ## About Me 😊
 
