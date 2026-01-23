@@ -1,8 +1,8 @@
 <h2 align="center">🐦 Try → Fail → Learn → Adapt → Solve</h2>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋🏻+I+am+Ridham+Sharma&center=true&width=360&height=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I+am+Ridham+Sharma,+welcome+to+my+GitHub+profile!&center=true&width=420&height=35">
 </p>
-<h3 align="center">Welcome To My Github Profile→ Solve</h3>
+
 <br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ridham32/Ridham32/main/abc.gif" width="340" />
