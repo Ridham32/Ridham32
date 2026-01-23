@@ -1,17 +1,13 @@
-<h2 align="center"> Hi 👋, I'm Ridham Sharma </h2>
+<h2 align="center">🐦 Try → Fail → Learn → Adapt → Solve</h2>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋🏻+,+I'm+Ridham+Sharma+.+Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
 </p>
 <br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ridham32/Ridham32/main/abc.gif" width="340" />
 </p>
 
-<h3 align="center">🌱 Try → Fail → Adapt → Solve</h3>
-<p align="center">
-  <sub>A mindset for learning, problem-solving, and growth</sub>
-</p>
-
+<h3 align="center">🐦 Try → Fail → Learn → Adapt → Solve</h3>
 
 ## About Me 😊
 
