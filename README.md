@@ -1,13 +1,12 @@
 <h2 align="center">🐦 Try → Fail → Learn → Adapt → Solve</h2>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋🏻+,+I'm+Ridham+Sharma+.+Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋🏻+I%27m+Ridham+Sharma.+Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
 </p>
+
 <br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ridham32/Ridham32/main/abc.gif" width="340" />
 </p>
-
-<h3 align="center">🐦 Try → Fail → Learn → Adapt → Solve</h3>
 
 ## About Me 😊
 
