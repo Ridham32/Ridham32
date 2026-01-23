@@ -9,8 +9,9 @@
 
 <h3 align="center">🌱 Try → Fail → Adapt → Solve</h3>
 <p align="center">
-  <i>A mindset for learning, problem-solving, and growth</i>
+  <sub>A mindset for learning, problem-solving, and growth</sub>
 </p>
+
 
 ## About Me 😊
 
