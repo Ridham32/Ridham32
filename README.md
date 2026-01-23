@@ -50,12 +50,6 @@
 </p>
 
 <p align="center">
-  <a href="http://www.github.com/Ridham32">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ridham32&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true" alt="GitHub Commits Graph" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/Ridham32">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridham32&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
   </a>
