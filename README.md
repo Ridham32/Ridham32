@@ -1,7 +1,8 @@
 <h2 align="center">🐦 Try → Fail → Learn → Adapt → Solve</h2>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋🏻+I%27m+Ridham+Sharma.+Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋🏻+I+am+Ridham+Sharma.+Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
 </p>
+
 
 <br>
 <p align="center">
