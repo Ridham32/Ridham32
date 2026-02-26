@@ -16,9 +16,10 @@ while True: try_fail_learn_adapt_solve() #My definition of growth.
 
 ## About Me 😊
 
-🤖 Hands-on experience with Arduino-based projects  
-📊 Exploring Data Science, AI & Machine Learning  
-🤝 Open to collaboration on beginner-friendly projects
+👨‍💻 Engineering student passionate about building real-world projects  
+🤖 Experience with Arduino-based automation & sensor projects  
+📊 Learning Data Science & Machine Learning with hands-on Python practice  
+🚀 Actively looking for internships and beginner-friendly open-source contributions
 
 ## Skills👩‍💻 and Tools🛠️
 
